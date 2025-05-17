@@ -38,6 +38,7 @@ An end-to-end data analytics project built with **Power BI**, focused on enhanci
 
 
 
+Demo :🎥 [See here](demobi.mp4)
 ---
 
 > *This project was developed as part of a healthcare analytics initiative to explore the potential of data-driven improvements in hospital emergency departments.*
